@@ -19,6 +19,9 @@ public class SignUpAct extends AppCompatActivity {
     EditText editText2, editText5, editText3, editText7;
     ImageView logoImage ;
 
+
+    // this is the Sign page Activity
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
