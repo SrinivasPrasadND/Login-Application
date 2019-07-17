@@ -8,8 +8,12 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
+<<<<<<< HEAD
 // now I am in the master branch
 
+=======
+//New  Experimental Branch created
+>>>>>>> ExperimentalBranch
     ImageView bgone;
     Button btnget;
 
