@@ -20,7 +20,8 @@ public class SignUpAct extends AppCompatActivity {
     ImageView logoImage ;
 
 
-    // this is the Sign page Activity
+    // this is the Signup page Activity
+    // It Doesntworks with any Database stuffs
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
